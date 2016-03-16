@@ -1,7 +1,7 @@
-2fcb7b3bcaff465b1bf261b97c47f840 *DESCRIPTION
+760084cd9b2159bf0055b45de677b80f *DESCRIPTION
 ab4b139a1f58f358da6d41b02bc38e09 *LICENSE
 6cba0141bee38406234b7860cb9fca2c *NAMESPACE
-655c32aab043d6f93aa553661fef4730 *NEWS.md
+4615aee5e1469b37b9c9bb71221ffd78 *NEWS.md
 a3e9dd32d915c12454810705605bf225 *R/agnostic_aggregate.R
 9dce97544162ad91213dffb2f406d958 *R/agnostic_hexbin.R
 3910dbc1d0228d2556863efee51e43e2 *R/agnostic_quantile.R
@@ -123,7 +123,7 @@ a246c0a258a0e2c8deff7022bb2a851a *tests/testthat/test-hexbin.R
 09448cf00c10a76f8a888a991131074e *tests/testthat/test-kvHDFS.R
 f56e7e60dabbec2560deae3b8c4d8910 *tests/testthat/test-kvLocalDisk.R
 ff155c83395c528900af287494606129 *tests/testthat/test-kvMemory.R
-94f14824634fd0835a07c65ee73acb95 *tests/testthat/test-quantile.R
+35605be8dc350b7b71fdfb5bf80929a1 *tests/testthat/test-quantile.R
 fd45e18a82bc14cb33abc688321c4e64 *tests/testthat/test-readtext.R
 1873b040b83e3a489f64cacf180c6187 *tests/testthat/test-spark.R
 531bac8198e3268ec49f33fe836a95e2 *tests/testthat/test-summary.R
