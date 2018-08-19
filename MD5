@@ -1,4 +1,4 @@
-bfe7dbc6b9a48e7a5401c898ae046604 *DESCRIPTION
+ae04853192b16e4dcd3c174a6195265c *DESCRIPTION
 ab4b139a1f58f358da6d41b02bc38e09 *LICENSE
 6cba0141bee38406234b7860cb9fca2c *NAMESPACE
 1676d0d4f55f24e9c6022d9f151c8212 *NEWS.md
@@ -50,7 +50,7 @@ d73733f089712b87138434b599dc156f *R/recombine_combine.R
 86a9d456516a8017bd3383de18f6f13f *R/recombine_transforms.R
 2d74e6ac878e8bf1f1cc64fb894cf7c4 *R/zzz_constants.R
 ca0e34fbe142019970ea0d2f837770a2 *README.md
-7eb631ee4a59f9765838581eea81ba85 *data/adult.rda
+55b39c0864ffbd6e22d010a500ff428c *data/adult.rda
 95ce71025bbb3da43ec16f98cfa19410 *man/addData.Rd
 ce8d5785d4c948f3040f09296df635ce *man/addTransform.Rd
 b08f58ba98766feff11ec6b98421fe9e *man/adult.Rd
